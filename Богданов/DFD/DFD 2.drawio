@@ -1,0 +1,89 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36 Edg/142.0.0.0" version="29.0.2">
+  <diagram name="Страница-1" id="tZ_shoXgKKNVHIy3y5Ct">
+    <mxGraphModel dx="1582" dy="1098" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="J6yELDAtwdRLt_djQ6p8-27" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="J6yELDAtwdRLt_djQ6p8-2" target="J6yELDAtwdRLt_djQ6p8-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="J6yELDAtwdRLt_djQ6p8-2" value="CRM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="-380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J6yELDAtwdRLt_djQ6p8-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="J6yELDAtwdRLt_djQ6p8-26" target="J6yELDAtwdRLt_djQ6p8-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-150" y="-219.66666666666663" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J6yELDAtwdRLt_djQ6p8-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.997;exitY=0.922;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=0.171;entryY=0.006;entryDx=0;entryDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="J6yELDAtwdRLt_djQ6p8-26" target="J6yELDAtwdRLt_djQ6p8-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="160.00000000000023" y="-140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J6yELDAtwdRLt_djQ6p8-26" value="Обработка данных" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="-280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J6yELDAtwdRLt_djQ6p8-29" value="База данных" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="-130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J6yELDAtwdRLt_djQ6p8-36" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-160.24" y="-150" as="sourcePoint" />
+            <mxPoint x="-160.24" y="-110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J6yELDAtwdRLt_djQ6p8-30" value="Планирование кампаний" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="-210" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J6yELDAtwdRLt_djQ6p8-37" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-160.24" y="-50" as="sourcePoint" />
+            <mxPoint x="-160.24" y="-10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J6yELDAtwdRLt_djQ6p8-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="J6yELDAtwdRLt_djQ6p8-31" target="J6yELDAtwdRLt_djQ6p8-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="70" y="-50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J6yELDAtwdRLt_djQ6p8-31" value="Реализация кампаний" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="-110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J6yELDAtwdRLt_djQ6p8-41" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-160.42000000000002" y="50" as="sourcePoint" />
+            <mxPoint x="-160.42000000000002" y="100" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="J6yELDAtwdRLt_djQ6p8-32" value="Оценка эффективности" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="-10" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J6yELDAtwdRLt_djQ6p8-33" value="Маркетолог" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="J6yELDAtwdRLt_djQ6p8-43" value="Отчеты" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="60" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J6yELDAtwdRLt_djQ6p8-45" value="Данные кампании" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="50" y="-90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J6yELDAtwdRLt_djQ6p8-46" value="Сырые данные" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="-200" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J6yELDAtwdRLt_djQ6p8-47" value="Аналитика" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-160" y="-265" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J6yELDAtwdRLt_djQ6p8-48" value="План кампании" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="-150" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J6yELDAtwdRLt_djQ6p8-49" value="Метрики" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="-50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="J6yELDAtwdRLt_djQ6p8-50" value="Данные" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="10" y="-320" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
